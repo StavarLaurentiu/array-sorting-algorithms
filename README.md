@@ -1,1 +1,1 @@
-# Sorting Algorithms for Begginers
+# Sorting Algorithms for Beginners
